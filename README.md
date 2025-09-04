@@ -1,4 +1,4 @@
-# Store Analysis (Excel Dashboard)
+# Store Analysis
 
 An interactive Excel Dashboard created to analyze store performance and generate actionable business insights.
 
